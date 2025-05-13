@@ -8,11 +8,11 @@ A minimalistic API for adding schools with a valid address, name and location (l
 format to be followed:
 
 
-DB_HOSTNAME = <hostname eg. localhost>   <br>
-DB_USERNAME = <username>   <br>
-DB_PASSWORD = <password>   <br>
-DB_NAME = <name of the database>  <br>
-PORT = <the default port number of the server to run>
+DB_HOSTNAME = [hostname eg. localhost]   <br>
+DB_USERNAME = [username]   <br>
+DB_PASSWORD = [password]   <br>
+DB_NAME = [name of the database]  <br>
+PORT = [the default port number of the server to run]
 
 # First install all the list of packages:
 npm init -y
