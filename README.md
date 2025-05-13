@@ -5,6 +5,8 @@ A minimalistic API for adding schools with a valid address, name and location (l
 ### To run the API:
 # First install all the list of packages:
 npm init -y
+
+
 npm install
 
 ### Run the server:
